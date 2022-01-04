@@ -18,7 +18,7 @@ section {
 
 .half-width {
     width: 50%;
-    padding-left: 5%;
+    padding-left: 15%;
 
 }
 
@@ -26,6 +26,13 @@ section {
     width: 100%;
     padding-top: 15%;
 
+}
+
+#sharee-img img {
+    width: 80%;
+    padding-top: 15%;
+    padding-right: 80%;
+    padding-left: 30%;
 }
 
 .link-button {
@@ -41,4 +48,10 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+.fix-the-aim {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
