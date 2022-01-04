@@ -19,7 +19,7 @@ h1 {
 
 .half-width {
     width: 50%;
-    padding-left: 15%;
+    padding-left: 5%;
 
 }
 
@@ -55,4 +55,36 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.exp-item {
+    width: 50%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 30px greenyellow;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-left: green solid 10px;
+}
+
+.bottom-banner {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+#stack {
+    border-left: 5px solid;
+    border-image: linear-gradient(green, white);
+    border-image-slice: 1;
+
+}
+
+#baby {
+    border-left: 5px solid;
+    border-image: linear-gradient(green, white);
+    border-image-slice: 1;
+
+}
+
+footer p {
+    text-align: center;
 }
