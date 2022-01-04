@@ -12,8 +12,9 @@ h1 {
     color: crimson;
 }
 
-section {
+.flex-container {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
